@@ -1,2 +1,2 @@
 # QSD
-Repository for custom QSD device scripts
+Repository of custom QSD device scripts
